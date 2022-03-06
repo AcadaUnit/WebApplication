@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "start of package installation"
+echo "sudo yum install nano-y"
+echo "sudo yum install vim-y"
+echo "installation completed"
